@@ -46,8 +46,8 @@ dotnet --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/MathRixx/KAR_Robotics_.git
+cd KAR_Robotics_
 ```
 
 Restore dependencies:
@@ -73,7 +73,6 @@ Then open your browser and navigate to:
 ```
 https://localhost:5001
 ```
-(or the URL shown in your console)
 
 ---
 
@@ -101,7 +100,7 @@ Please follow clean code principles and meaningful commit messages.
 
 ## 🧾 License
 
-This project is released under the **MIT License** (or update to your chosen license).
+This project is released under the **Apache License**.
 
 ---
 
@@ -111,7 +110,8 @@ If you would like to reach the team:
 
 - **Team:** Kartal Anadolu High School Robotics Team  
 - **School:** Kartal Anadolu Lisesi  
-- (Add email, social media, or website links here)
+- **Instagram** @karobotics
+- **Mail** robotics@kartalanadolulisesi.com
 
 ---
 
