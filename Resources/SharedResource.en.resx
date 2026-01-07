@@ -117,10 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AboutText" xml:space="preserve">
-    <value>At KAR Robotics, our mission goes far beyond simply building robots. We aim to introduce young people to science, technology, and creativity, and to help them become conscious, productive, and future-ready individuals. In every project we undertake, our goal is not only to gain technical knowledge, but also to develop our way of thinking and share the power of learning.</value>
-  </data>
-  <data name="AboutTitle" xml:space="preserve">
-    <value>Shaping the Future with Science, Technology, and Creativity as &lt;span style="color:#1E419D;"&gt;KAR Robotics&lt;/span&gt;  </value>
+  <data name="Test" xml:space="preserve">
+    <value>asfdasdfas</value>
   </data>
 </root>

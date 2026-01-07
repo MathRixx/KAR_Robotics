@@ -1,25 +1,79 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Localization;
+using Microsoft.AspNetCore.Localization.Routing;
+using Microsoft.Extensions.Options;
+using System.Globalization;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+// Localization resources
+builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
+
+// MVC + Localization
+builder.Services
+    .AddControllersWithViews()
+    .AddViewLocalization()
+    .AddDataAnnotationsLocalization();
+
+// Cookie Authentication
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/tr/Admin/Login";
+        options.AccessDeniedPath = "/tr/Home/Index";
+    });
+
+builder.Services.AddAuthorization();
+
+// Supported cultures
+var supportedCultures = new[]
+{
+    new CultureInfo("en"),
+    new CultureInfo("tr"),
+    new CultureInfo("de")
+};
+
+builder.Services.Configure<RequestLocalizationOptions>(options =>
+{
+    options.DefaultRequestCulture = new RequestCulture("tr");
+    options.SupportedCultures = supportedCultures;
+    options.SupportedUICultures = supportedCultures;
+
+    var provider = new RouteDataRequestCultureProvider
+    {
+        RouteDataStringKey = "culture",
+        UIRouteDataStringKey = "culture"
+    };
+
+    options.RequestCultureProviders = new[] { provider };
+});
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Hata yönetimi
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
 }
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+
 app.UseRouting();
 
+// Localization
+var locOptions = app.Services
+    .GetRequiredService<IOptions<RequestLocalizationOptions>>().Value;
+app.UseRequestLocalization(locOptions);
+
+// Auth middleware
+app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapStaticAssets();
-
+// Routes
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
-
+    pattern: "{culture=tr}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

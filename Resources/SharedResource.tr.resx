@@ -117,12 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AboutText" xml:space="preserve">
-    <value>KAR Robotics olarak misyonumuz, yalnızca robotlar üretmekten çok daha fazlasını kapsamaktadır. Biz, gençlere bilimi, teknolojiyi ve yaratıcılığı tanıtmayı; onları bilinçli, üretken ve geleceğe hazır bireyler haline getirmeyi hedefliyoruz. Her çalışmamızda amacımız, yalnızca teknik bilgi kazanmak değil, aynı zamanda düşünme biçimimizi geliştirmek ve öğrenmenin gücünü paylaşmaktır.
-
-FRC süreci bize sadece mühendislik ve kodlama öğretmez; aynı zamanda özgüven, azim, takım ruhu ve dayanışma kazandırır. Her proje, bir ekip olarak birlikte üretmenin, birlikte düşünmenin ve birlikte başarmanın yeni bir yoludur. Biz, her hatayı bir öğrenme fırsatı, her başarıyı ise yeni bir hedefin başlangıcı olarak görürüz.</value>
-  </data>
-  <data name="AboutTitle" xml:space="preserve">
-    <value>&lt;span style="color:#1E419D;"&gt;KAR Robotics&lt;/span&gt;  olarak Bilim, Teknoloji ve Yaratıcılıkla Geleceği Şekillendiriyoruz</value>
+  <data name="Test" xml:space="preserve">
+    <value>asfasd</value>
   </data>
 </root>

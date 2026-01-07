@@ -1,5 +1,8 @@
-﻿    <!-- About Section -->
-<section id="about" class="about section" style="padding-bottom: 0px;">
+﻿@using Microsoft.Extensions.Localization
+@using KAR_Robotics.Models
+@inject IStringLocalizer<SharedResource> Localizer
+<!-- About Section -->
+<section id="about" class="about section" style="padding-bottom: 0px">
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -9,11 +12,11 @@
             </div>
             <div class="col-lg-6 order-2 order-lg-1 content">
                 <h3>
-                    <span style="color:#1E419D;">KAR Robotics</span>  olarak
-                    Bilim, Teknoloji ve Yaratıcılıkla Geleceği Şekillendiriyoruz
+                    @Localizer["Test"]
                 </h3>
                 <!-- <p class="fst-italic"> -->
                 <p>
+
 
                     KAR Robotics olarak misyonumuz, yalnızca robotlar üretmekten çok daha fazlasını kapsamaktadır. Biz, gençlere bilimi, teknolojiyi ve yaratıcılığı tanıtmayı; onları bilinçli, üretken ve geleceğe hazır bireyler haline getirmeyi hedefliyoruz. Her çalışmamızda amacımız, yalnızca teknik bilgi kazanmak değil, aynı zamanda düşünme biçimimizi geliştirmek ve öğrenmenin gücünü paylaşmaktır.
 
