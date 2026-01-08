@@ -1,10 +1,14 @@
-﻿    <!-- Contact Section -->
+﻿@using Microsoft.Extensions.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using KAR_Robotics
+@inject IStringLocalizer<SharedResource> Localizer
+    <!-- Contact Section -->
 <section id="contact" class="contact section">
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>İletİşİm</h2>
-        <p>Bİzİmle İletİşİme Geçİn</p>
+        <h2>@Localizer["ContactH2"]</h2>
+        <p>@Localizer["ContactP"]</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -19,15 +23,15 @@
                 <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
                     <i class="bi bi-geo-alt flex-shrink-0" style="color:white"></i>
                     <div>
-                        <h3>Adres</h3>
-                        <p>Adres Cevizli Mh. Karabük Cd. No 10 Kartal / İSTANBUL</p>
+                        <h3>@Localizer["ContactAdress"]</h3>
+                        <p>Cevizli Mh. Karabük Cd. No 10 Kartal / İSTANBUL</p>
                     </div>
                 </div><!-- End Info Item -->
 
                 <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
                     <i class="bi bi-telephone flex-shrink-0" style="color:white"></i>
                     <div>
-                        <h3>Bizi Arayın</h3>
+                        <h3>@Localizer["ContactPhone"]</h3>
                         <p>+90 553 983 42 41</p>
                     </div>
                 </div><!-- End Info Item -->
@@ -35,7 +39,7 @@
                 <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="500">
                     <i class="bi bi-envelope flex-shrink-0" style="color:white"></i>
                     <div>
-                        <h3>Email</h3>
+                        <h3>E-Mail</h3>
                         <p>robotics@kartalanadolulisesi.com</p>
                     </div>
                 </div><!-- End Info Item -->
@@ -47,27 +51,27 @@
                     <div class="row gy-4">
 
                         <div class="col-md-6">
-                            <input type="text" name="name" class="form-control" placeholder="Adınız" required="">
+                            <input type="text" name="name" class="form-control" placeholder="@Localizer["ContactFName"]" required="">
                         </div>
 
                         <div class="col-md-6 ">
-                            <input type="email" class="form-control" name="email" placeholder="Mail Adresiniz" required="">
+                            <input type="email" class="form-control" name="email" placeholder="@Localizer["ContactFEMail"]" required="">
                         </div>
 
                         <div class="col-md-12">
-                            <input type="text" class="form-control" name="subject" placeholder="Konu" required="">
+                            <input type="text" class="form-control" name="subject" placeholder="@Localizer["ContactFSubject"]" required="">
                         </div>
 
                         <div class="col-md-12">
-                            <textarea class="form-control" name="message" rows="6" placeholder="Mesaj" required=""></textarea>
+                            <textarea class="form-control" name="message" rows="6" placeholder="@Localizer["ContactFMessage"]" required=""></textarea>
                         </div>
 
                         <div class="col-md-12 text-center">
-                            <div class="loading">Loading</div>
+@*                             <div class="loading">Loading</div>
                             <div class="error-message"></div>
-                            <div class="sent-message">Mesajınız gönderilmiştir teşekkürler.!</div>
+                            <div class="sent-message">Mesajınız gönderilmiştir teşekkürler.!</div> *@
 
-                            <button type="submit" style="color:white">Mesaj Gönder</button>
+                            <button type="submit" style="color:white">@Localizer["ContactFSend"]</button>
                         </div>
 
                     </div>

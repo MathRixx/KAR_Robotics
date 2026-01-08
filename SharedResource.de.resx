@@ -118,167 +118,165 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutH3" xml:space="preserve">
-    <value>                        &lt;span style="color:#1E419D;"&gt;KAR Robotics&lt;/span&gt;  olarak
-                        Bilim, Teknoloji ve Yaratıcılıkla Geleceği Şekillendiriyoruz</value>
+    <value>Als &lt;span style="color:#1E419D;"&gt;KAR Robotics&lt;/span&gt;  gestalten wir die Zukunft mit Wissenschaft, Technologie und Kreativität</value>
   </data>
   <data name="AboutLi1" xml:space="preserve">
-    <value>Bilimi ve teknolojiyi sadece kullanmak değil, anlamak ve geliştirmek bizim için tutkudur.</value>
+    <value>Wissenschaft und Technologie nicht nur zu nutzen, sondern sie zu verstehen und weiterzuentwickeln, ist unsere Leidenschaft.</value>
   </data>
   <data name="AboutLi2" xml:space="preserve">
-    <value>Ekip içinde saygı, sorumluluk ve güven en önemli değerlerimizdir.</value>
+    <value>Respekt, Verantwortung und Vertrauen sind die wichtigsten Werte innerhalb unseres Teams.</value>
   </data>
   <data name="AboutLi3" xml:space="preserve">
-    <value>Farklı fikirlerin bizi ileri taşıdığına inanır, her bireyin katkısına değer veririz.</value>
+    <value>Wir glauben daran, dass unterschiedliche Ideen uns voranbringen, und schätzen den Beitrag jedes einzelnen Mitglieds.</value>
   </data>
   <data name="AboutLi4" xml:space="preserve">
-    <value>Zorluklar karşısında pes etmeyiz; çünkü ilerlemenin yolu denemekten geçer.</value>
+    <value>Als KAR Robotics sind wir überzeugt: Die Zukunft wird von Menschen gestaltet, die träumen, produzieren und teilen.</value>
   </data>
   <data name="AboutLi5" xml:space="preserve">
-    <value>KAR Robotics olarak inanıyoruz ki, geleceği inşa edenler; hayal kuran, üreten ve paylaşan insanlardır.</value>
+    <value>Wir geben bei Herausforderungen nicht auf, denn Fortschritt entsteht durch Ausprobieren.</value>
   </data>
   <data name="AboutP" xml:space="preserve">
-    <value> KAR Robotics olarak misyonumuz, yalnızca robotlar üretmekten çok daha fazlasını kapsamaktadır. Biz, gençlere bilimi, teknolojiyi ve yaratıcılığı tanıtmayı; onları bilinçli, üretken ve geleceğe hazır bireyler haline getirmeyi hedefliyoruz. Her çalışmamızda amacımız, yalnızca teknik bilgi kazanmak değil, aynı zamanda düşünme biçimimizi geliştirmek ve öğrenmenin gücünü paylaşmaktır.
+    <value>Unsere Mission bei KAR Robotics geht weit über das bloße Bauen von Robotern hinaus. Unser Ziel ist es, jungen Menschen Wissenschaft, Technologie und Kreativität näherzubringen und sie zu bewussten, produktiven und zukunftsfähigen Individuen zu machen. Bei jeder unserer Arbeiten geht es uns nicht nur darum, technisches Wissen zu erwerben, sondern auch unsere Denkweise weiterzuentwickeln und die Kraft des Lernens zu teilen.
 
- FRC süreci bize sadece mühendislik ve kodlama öğretmez; aynı zamanda özgüven, azim, takım ruhu ve dayanışma kazandırır. Her proje, bir ekip olarak birlikte üretmenin, birlikte düşünmenin ve birlikte başarmanın yeni bir yoludur. Biz, her hatayı bir öğrenme fırsatı, her başarıyı ise yeni bir hedefin başlangıcı olarak görürüz.</value>
+Der FRC-Prozess lehrt uns nicht nur Ingenieurwesen und Programmierung, sondern vermittelt uns auch Selbstvertrauen, Ausdauer, Teamgeist und Solidarität. Jedes Projekt eröffnet einen neuen Weg des gemeinsamen Produzierens, Denkens und Erfolgens als Team. Wir betrachten jeden Fehler als Lernchance und jeden Erfolg als Beginn eines neuen Ziels.</value>
   </data>
   <data name="AboutP2" xml:space="preserve">
-    <value>Biz, geleceğin şekillenmesinde aktif rol almak isteyen bir neslin parçasıyız.
-Yaratıcılıkla, bilimin ışığında, dayanışma ve çalışkanlıkla ülkemizin geleceğine iz bırakmak için buradayız.
-KAR Robotics olarak inanıyoruz ki, geleceği inşa edenler; hayal kuran, üreten ve paylaşan insanlardır.</value>
+    <value>Wir sind Teil einer Generation, die aktiv an der Gestaltung der Zukunft mitwirken möchte. Mit Kreativität, im Licht der Wissenschaft, durch Solidarität und Fleiß sind wir hier, um der Zukunft unseres Landes unseren Stempel aufzudrücken. KAR Robotics ist überzeugt: Die Zukunft gehört denen, die träumen, produzieren und teilen.</value>
   </data>
   <data name="AboutUs" xml:space="preserve">
-    <value>Hakkımızda</value>
+    <value>Über Uns</value>
   </data>
   <data name="BeOurSponsor" xml:space="preserve">
-    <value>Sponsor Olun</value>
+    <value>Werden Sie Sponsor</value>
   </data>
   <data name="CalltoactionA" xml:space="preserve">
-    <value>Sponsor Olun!</value>
+    <value>Werden Sie Sponsor!</value>
   </data>
   <data name="CalltoactionH3" xml:space="preserve">
-    <value>Geleceğin mühendislerini birlikte yetiştirelim!</value>
+    <value>Lassen Sie uns gemeinsam die Ingenieure der Zukunft ausbilden!</value>
   </data>
   <data name="CalltoactionP" xml:space="preserve">
-    <value>Geleceğin mühendislerini birlikte yetiştirelim!</value>
+    <value>Als KAR Robotics arbeiten wir daran, junge Menschen im STEM-Bereich zu inspirieren, zu fördern und unser Land auf internationaler Ebene bestmöglich zu vertreten. Ihre Unterstützung ist nicht nur eine Investition in einen Roboter, sondern in die Zukunft junger Menschen.</value>
   </data>
   <data name="Contact" xml:space="preserve">
-    <value>İletişim</value>
+    <value>Kontakt</value>
   </data>
   <data name="ContactAdress" xml:space="preserve">
-    <value>Adres</value>
+    <value>Adresse</value>
   </data>
   <data name="ContactFEMail" xml:space="preserve">
-    <value>Mail Adresiniz</value>
+    <value>Ihr E-Mail</value>
   </data>
   <data name="ContactFMessage" xml:space="preserve">
-    <value>Mesaj</value>
+    <value>Nachricht</value>
   </data>
   <data name="ContactFName" xml:space="preserve">
-    <value>Adınız</value>
+    <value>Ihr Name</value>
   </data>
   <data name="ContactFSend" xml:space="preserve">
-    <value>Mesaj Gönder</value>
+    <value>Nachricht senden</value>
   </data>
   <data name="ContactFSubject" xml:space="preserve">
-    <value>Konu</value>
+    <value>Betreff</value>
   </data>
   <data name="ContactH2" xml:space="preserve">
-    <value>İLETİŞİM</value>
+    <value>KONTAKT</value>
   </data>
   <data name="ContactP" xml:space="preserve">
-    <value>BİZİMLE İLETİŞİME GEÇİN</value>
+    <value>KONTAKTIEREN SIE UNS</value>
   </data>
   <data name="ContactPhone" xml:space="preserve">
-    <value>Bizi Arayın</value>
+    <value>Telefon</value>
   </data>
   <data name="FeaturesH2" xml:space="preserve">
-    <value>EKİPLERİMİZ</value>
+    <value>UNSERE TEAMS</value>
   </data>
   <data name="FeaturesH4Code" xml:space="preserve">
-    <value>Yazılım Ekibi</value>
+    <value>Software-Team</value>
   </data>
   <data name="FeaturesH4Electronics" xml:space="preserve">
-    <value>Elektronik Ekibi</value>
+    <value>Elektronik-Team</value>
   </data>
   <data name="FeaturesH4Mechanics" xml:space="preserve">
-    <value>Mekanik Ekibi</value>
+    <value>Mechanik-Team</value>
   </data>
   <data name="FeaturesH4PR" xml:space="preserve">
-    <value>PR Ekibi</value>
+    <value>PR-Team</value>
   </data>
   <data name="FeaturesP" xml:space="preserve">
-    <value>Takımımızdaki EKİPLER</value>
+    <value>ÜBER UNSER TEAM</value>
   </data>
   <data name="FeaturesPCode" xml:space="preserve">
-    <value>Robotumuzun otonom ve sürücü kontrollü modlarını programlar. Sensör yönetimi, yol algoritmaları ve robotun stratejik hareketlerinin tüm yazılım altyapısını geliştirir. Yarışma boyunca robotun güvenilir ve hızlı çalışmasını sağlar.</value>
+    <value>Programmiert die autonomen und fahrergesteuerten Modi unseres Roboters. Entwickelt die gesamte Software-Infrastruktur, einschließlich Sensormanagement, Fahralgorithmen und strategischer Bewegungen des Roboters. Sorgt während des Wettbewerbs für einen zuverlässigen und schnellen Betrieb.</value>
   </data>
   <data name="FeaturesPElectronics" xml:space="preserve">
-    <value>Robotun elektrik altyapısını kurar; motorlar, sensörler, kablolama ve kontrol sistemi gibi tüm elektronik bileşenlerin bağlantısını yapar. Sistem güvenliğini sağlar ve yarışma boyunca oluşabilecek arızaları hızlıca çözer.</value>
+    <value>Baut die elektrische Infrastruktur des Roboters auf und verbindet Motoren, Sensoren, Verkabelung und Steuersysteme. Gewährleistet die Systemsicherheit und behebt während der Wettbewerbe schnell auftretende Störungen.</value>
   </data>
   <data name="FeaturesPMechanics" xml:space="preserve">
-    <value>Robotun fiziksel tasarımından, şase yapısından ve tüm hareketli mekanizmalarının üretiminden sorumludur. CAD tasarımları yapar, parçaları üretir ve montaj sürecini yönetir. Sahada dayanıklı ve performanslı bir robot ortaya koyar.</value>
+    <value>Zuständig für das physische Design des Roboters, den Chassis-Aufbau und die Herstellung aller beweglichen Mechanismen. Erstellt CAD-Designs, fertigt Bauteile an und leitet den Montageprozess. Entwickelt einen robusten und leistungsstarken Roboter für den Wettbewerb.</value>
   </data>
   <data name="FeaturesPPR" xml:space="preserve">
-    <value>Takımımızın dış dünya ile olan iletişimini yönetir. Sosyal medya içerikleri hazırlar, sponsorluk görüşmelerini yürütür ve takımımızı okullar, etkinlikler ve topluluklarda en iyi şekilde temsil eder. Hem markamızı güçlendirir hem de FRC kültürünü daha fazla insana ulaştırır.</value>
+    <value>Verantwortlich für die Kommunikation unseres Teams mit der Außenwelt. Erstellt Social-Media-Inhalte, führt Sponsoring-Gespräche und vertritt unser Team bestmöglich in Schulen, bei Veranstaltungen und in der Öffentlichkeit. Stärkt unsere Marke und bringt die FRC-Kultur zu mehr Menschen.</value>
   </data>
   <data name="HeroSlogan" xml:space="preserve">
-    <value>Yükselmek doğamızda var</value>
+    <value>Aufsteigen liegt in unserer Natur</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>Ana Sayfa</value>
+    <value>Startseite</value>
   </data>
   <data name="lang" xml:space="preserve">
-    <value>tr</value>
+    <value>de</value>
   </data>
   <data name="Links" xml:space="preserve">
-    <value>Bağlantılar</value>
+    <value>Links</value>
   </data>
   <data name="OurTeam" xml:space="preserve">
-    <value>Takımlarımız</value>
+    <value>Unser Team</value>
   </data>
   <data name="ServicesH2" xml:space="preserve">
-    <value>Hakkımızda</value>
+    <value>ÜBER UNS</value>
   </data>
   <data name="ServicesH3Last" xml:space="preserve">
-    <value>Toplumsal Etki</value>
+    <value>Gesellschaftlicher Einfluss</value>
   </data>
   <data name="ServicesH3Mission" xml:space="preserve">
-    <value>Takım Misyonu</value>
+    <value>Team-Mission</value>
   </data>
   <data name="ServicesH3Pro" xml:space="preserve">
-    <value>Duyarlı Profesyonellik</value>
+    <value>Gracious Professionalism (Respektvolle Professionalität)</value>
   </data>
   <data name="ServicesH3Team" xml:space="preserve">
-    <value>Takım Değerlerimiz</value>
+    <value>Unsere Werte</value>
   </data>
   <data name="ServicesH3Vision" xml:space="preserve">
-    <value>Takım Vizyonu</value>
+    <value>Team-Vision</value>
   </data>
   <data name="ServicesH3Who" xml:space="preserve">
-    <value>Biz Kimiz</value>
+    <value>Wer wir sind</value>
   </data>
   <data name="ServicesP" xml:space="preserve">
-    <value>Takımımız Hakkında</value>
+    <value>ÜBER UNSER TEAM</value>
   </data>
   <data name="ServicesPLast" xml:space="preserve">
-    <value>Yıl boyunca düzenlediğimiz atölyeler, robot gösterileri ve STEM etkinlikleriyle yüzlerce öğrenciye ulaşıyoruz. Amacımız sadece yarışmalara katılmak değil; yeni nesillere ilham vermek, teknolojiye olan ilgiyi artırmak ve toplumda kalıcı bir fark yaratmak.</value>
+    <value>Durch Workshops, Robotik-Vorführungen und STEM-Veranstaltungen erreichen wir im Laufe des Jahres Hunderte von Schülern. Unser Ziel ist es nicht nur, an Wettbewerben teilzunehmen, sondern die nächste Generation zu inspirieren, das Interesse an Technologie zu steigern und einen nachhaltigen gesellschaftlichen Unterschied zu schaffen.</value>
   </data>
   <data name="ServicesPMission" xml:space="preserve">
-    <value>Gençlerin STEM alanlarına ilgisini artırmak, onların mühendislik, yazılım ve tasarım becerilerini geliştirebilecekleri bir ortam sunmak ve ulusal–uluslararası arenada okulumuzu en iyi şekilde temsil etmek için çalışıyoruz. Her sezonda daha fazla öğrenciye dokunmayı hedefliyoruz.</value>
+    <value>Wir arbeiten daran, das Interesse junger Menschen an den MINT-Bereichen (STEM) zu steigern, ihnen ein Umfeld zur Entwicklung von Ingenieur-, Software- und Designfähigkeiten zu bieten und unsere Schule auf nationaler sowie internationaler Ebene bestmöglich zu vertreten. Jede Saison möchten wir mehr Schüler erreichen.</value>
   </data>
   <data name="ServicesPPro" xml:space="preserve">
-    <value>Rekabetin ötesine geçerek saygı, nezaket ve yardımseverlik çerçevesinde hareket ederiz. Yarışırken bile rakiplerimize destek olur, iş birliğini ön planda tutarız. Bu yaklaşım FRC’nin ve takımımızın temel felsefesini oluşturur.</value>
+    <value>Wir handeln über den Wettbewerb hinaus mit Respekt, Höflichkeit und Hilfsbereitschaft. Selbst im Wettkampf unterstützen wir unsere Gegner und stellen Zusammenarbeit in den Vordergrund. Dieser Ansatz bildet die Grundlage der FRC-Philosophie und unseres Teams.</value>
   </data>
   <data name="ServicesPTeam" xml:space="preserve">
-    <value>Takım ruhu, disiplinli çalışma, dayanışma ve “Gracious Professionalism” bizim temel ilkelerimizdir. Birlikte öğrenir, birlikte üretir ve karşılaştığımız her zorluğu ekip olarak çözeriz. Her üyemizin gelişimi takımımız için değerlidir.</value>
+    <value>Teamgeist, diszipliniertes Arbeiten, Solidarität und „Gracious Professionalism“ sind unsere Grundprinzipien. Wir lernen gemeinsam, produzieren gemeinsam und lösen jede Herausforderung als Team. Die Entwicklung jedes einzelnen Mitglieds ist für uns von großer Bedeutung.</value>
   </data>
   <data name="ServicesPVision" xml:space="preserve">
-    <value>Teknolojiyi üreten, araştıran ve toplumda fark yaratan bir neslin parçası olmayı hedefliyoruz. Sürdürülebilir bir takım kültürü oluşturarak, FRC ekosisteminde hem teknik hem toplumsal katkılarıyla örnek gösterilen bir ekip hâline gelmeyi amaçlıyoruz.</value>
+    <value>Wir streben danach, Teil einer Generation zu sein, die Technologie entwickelt, erforscht und gesellschaftlich etwas bewirkt. Durch den Aufbau einer nachhaltigen Teamkultur möchten wir ein Vorbild im FRC-Ökosystem werden – sowohl durch technische als auch durch gesellschaftliche Beiträge.</value>
   </data>
   <data name="ServicesPWho" xml:space="preserve">
-    <value>Kartal Anadolu Lisesi öğrencilerinden oluşan KAR Robotics, FRC programı kapsamında robot tasarlayan, üreten ve yeni teknolojiler öğrenen bir öğrenci topluluğudur. Amacımız sadece bir robot inşa etmek değil, birlikte öğrenen, üreten ve ilham veren bir takım olarak geleceğin mühendislerine adım atmaktır.</value>
+    <value>KAR Robotics ist ein Schülerteam der Kartal Anadolu Lisesi, das im Rahmen des FRC-Programms Roboter entwirft, baut und neue Technologien erlernt. Unser Ziel ist es nicht nur, einen Roboter zu bauen, sondern als ein Team zu wachsen, das gemeinsam lernt, produziert und inspiriert – und so den ersten Schritt in Richtung der Ingenieure von morgen macht.
+</value>
   </data>
   <data name="SponsorsH2P" xml:space="preserve">
-    <value>Sponsorlarımız</value>
+    <value>UNSERE SPONSOREN</value>
   </data>
 </root>

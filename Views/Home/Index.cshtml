@@ -1,4 +1,9 @@
-﻿@await Html.PartialAsync("Partials/Hero")
+﻿@using Microsoft.Extensions.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using KAR_Robotics
+@inject IStringLocalizer<SharedResource> Localizer
+
+@await Html.PartialAsync("Partials/Hero")
 @await Html.PartialAsync("Partials/About")
 @await Html.PartialAsync("Partials/Features")
 @await Html.PartialAsync("Partials/Services")

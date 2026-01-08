@@ -1,8 +1,13 @@
-﻿    <!-- Sponsors Section -->
+﻿@using Microsoft.Extensions.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using KAR_Robotics
+@inject IStringLocalizer<SharedResource> Localizer
+
+    <!-- Sponsors Section -->
 <section id="clients" class="clients section">
     <div class="container section-title aos-init aos-animate" data-aos="fade-up">
-        <h2>Sponsorlarımız</h2>
-        <p>Sponsorlarımız</p>
+        <h2>@Localizer["SponsorsH2P"]</h2>
+        <p>@Localizer["SponsorsH2P"]</p>
     </div>
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -41,14 +46,8 @@
                 }
             </script>
             <div class="swiper-wrapper align-items-center">
-                <div class="swiper-slide"><img src="~/img/clients/client-1.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="~/img/clients/client-2.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="~/img/clients/client-3.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="~/img/clients/client-4.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="~/img/clients/client-5.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="~/img/clients/client-6.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="~/img/clients/client-7.png" class="img-fluid" alt=""></div>
-                <div class="swiper-slide"><img src="~/img/clients/client-8.png" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="~/img/sponsors/sponsor-1.png" class="img-fluid" alt=""></div>
+ 
             </div>
             <div class="swiper-pagination"></div>
         </div>

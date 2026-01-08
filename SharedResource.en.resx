@@ -117,10 +117,168 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Test" xml:space="preserve">
-    <value>asfasd</value>
+  <data name="AboutH3" xml:space="preserve">
+    <value>Shaping the Future with Science, Technology, and Creativity &lt;span style="color:#1E419D;"&gt;KAR Robotics&lt;/span&gt; </value>
   </data>
-  <data name="Testv2" xml:space="preserve">
-    <value>Bu da çalışsın artık</value>
+  <data name="AboutLi1" xml:space="preserve">
+    <value>For us, it is a passion not only to use science and technology, but to understand and develop them.</value>
+  </data>
+  <data name="AboutLi2" xml:space="preserve">
+    <value>Respect, responsibility, and trust are our core values within the team.</value>
+  </data>
+  <data name="AboutLi3" xml:space="preserve">
+    <value>We believe that diverse ideas move us forward and value every individual’s contribution.</value>
+  </data>
+  <data name="AboutLi4" xml:space="preserve">
+    <value>We do not give up in the face of challenges, because progress comes through trying.</value>
+  </data>
+  <data name="AboutLi5" xml:space="preserve">
+    <value>As KAR Robotics, we believe that those who shape the future are the ones who dream, create, and share.</value>
+  </data>
+  <data name="AboutP" xml:space="preserve">
+    <value>At KAR Robotics, our mission goes far beyond simply building robots. We aim to introduce young people to science, technology, and creativity, and to help them become conscious, productive, and future-ready individuals. In every project we undertake, our goal is not only to gain technical knowledge, but also to develop our way of thinking and share the power of learning.
+
+The FRC journey teaches us more than engineering and coding; it builds self-confidence, perseverance, teamwork, and solidarity. Every project is a new way of producing together, thinking together, and achieving together as a team. We see every mistake as a learning opportunity and every success as the beginning of a new goal.
+</value>
+  </data>
+  <data name="AboutP2" xml:space="preserve">
+    <value>We are part of a generation that wants to take an active role in shaping the future. With creativity, guided by science, and driven by solidarity and hard work, we are here to leave a mark on our country’s future. As KAR Robotics, we believe that the future is built by those who dream, produce, and share.</value>
+  </data>
+  <data name="AboutUs" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="BeOurSponsor" xml:space="preserve">
+    <value>Become a Sponsor</value>
+  </data>
+  <data name="CalltoactionA" xml:space="preserve">
+    <value>Become a Sponsor!</value>
+  </data>
+  <data name="CalltoactionH3" xml:space="preserve">
+    <value>Let’s Raise the Engineers of the Future Together!</value>
+  </data>
+  <data name="CalltoactionP" xml:space="preserve">
+    <value>As KAR Robotics, we work to inspire young people in STEM fields, produce meaningful projects, and represent our country at the international level. Your support is not just an investment in a robot, but an investment in the future of young minds.
+
+</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="ContactAdress" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="ContactFEMail" xml:space="preserve">
+    <value>Your E-Mail</value>
+  </data>
+  <data name="ContactFMessage" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="ContactFName" xml:space="preserve">
+    <value>Your Name</value>
+  </data>
+  <data name="ContactFSend" xml:space="preserve">
+    <value>Send Message</value>
+  </data>
+  <data name="ContactFSubject" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+  <data name="ContactH2" xml:space="preserve">
+    <value>CONTACT</value>
+  </data>
+  <data name="ContactP" xml:space="preserve">
+    <value>GET IN TOUCH WITH US</value>
+  </data>
+  <data name="ContactPhone" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="FeaturesH2" xml:space="preserve">
+    <value>OUR TEAMS</value>
+  </data>
+  <data name="FeaturesH4Code" xml:space="preserve">
+    <value>Software Team</value>
+  </data>
+  <data name="FeaturesH4Electronics" xml:space="preserve">
+    <value>Electronics Team</value>
+  </data>
+  <data name="FeaturesH4Mechanics" xml:space="preserve">
+    <value>Mechanical Team</value>
+  </data>
+  <data name="FeaturesH4PR" xml:space="preserve">
+    <value>PR Team</value>
+  </data>
+  <data name="FeaturesP" xml:space="preserve">
+    <value>TEAMS IN OUR ORGANIZATION</value>
+  </data>
+  <data name="FeaturesPCode" xml:space="preserve">
+    <value>Programs our robot’s autonomous and driver-controlled modes. Develops the entire software infrastructure, including sensor management, path algorithms, and strategic robot movements. Ensures that the robot operates reliably and efficiently throughout the competition.</value>
+  </data>
+  <data name="FeaturesPElectronics" xml:space="preserve">
+    <value>Builds the robot’s electrical infrastructure, including motors, sensors, wiring, and control systems. Ensures system safety and quickly resolves any electrical issues that may occur during competitions.</value>
+  </data>
+  <data name="FeaturesPMechanics" xml:space="preserve">
+    <value>Responsible for the robot’s physical design, chassis structure, and the production of all moving mechanisms. Creates CAD designs, manufactures parts, and manages the assembly process. Delivers a durable and high-performance robot on the field.</value>
+  </data>
+  <data name="FeaturesPPR" xml:space="preserve">
+    <value>Manages our communication with the outside world. Prepares social media content, conducts sponsorship meetings, and represents our team in schools, events, and communities in the best possible way. Strengthens our brand and helps spread the FRC culture to a wider audience.</value>
+  </data>
+  <data name="HeroSlogan" xml:space="preserve">
+    <value>Rising is in our nature</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="lang" xml:space="preserve">
+    <value>en</value>
+  </data>
+  <data name="Links" xml:space="preserve">
+    <value>Links</value>
+  </data>
+  <data name="OurTeam" xml:space="preserve">
+    <value>Our Teams</value>
+  </data>
+  <data name="ServicesH2" xml:space="preserve">
+    <value>ABOUT OUR TEAM</value>
+  </data>
+  <data name="ServicesH3Last" xml:space="preserve">
+    <value>Social Impact</value>
+  </data>
+  <data name="ServicesH3Mission" xml:space="preserve">
+    <value>Team Mission</value>
+  </data>
+  <data name="ServicesH3Pro" xml:space="preserve">
+    <value>Gracious Professionalism</value>
+  </data>
+  <data name="ServicesH3Team" xml:space="preserve">
+    <value>Our Values</value>
+  </data>
+  <data name="ServicesH3Vision" xml:space="preserve">
+    <value>Team Vision</value>
+  </data>
+  <data name="ServicesH3Who" xml:space="preserve">
+    <value>Who We Are</value>
+  </data>
+  <data name="ServicesP" xml:space="preserve">
+    <value>ABOUT US</value>
+  </data>
+  <data name="ServicesPLast" xml:space="preserve">
+    <value>Through workshops, robot demonstrations, and STEM events organized throughout the year, we reach hundreds of students. Our goal is not only to compete, but to inspire new generations, increase interest in technology, and create a lasting impact on society.</value>
+  </data>
+  <data name="ServicesPMission" xml:space="preserve">
+    <value>We work to increase young people’s interest in STEM fields, provide an environment where they can develop engineering, software, and design skills, and represent our school in the best possible way at national and international levels. Each season, we aim to reach and inspire more students.</value>
+  </data>
+  <data name="ServicesPPro" xml:space="preserve">
+    <value>We go beyond competition by acting with respect, kindness, and helpfulness. Even while competing, we support our opponents and prioritize collaboration. This approach forms the foundation of both FRC and our team philosophy.</value>
+  </data>
+  <data name="ServicesPTeam" xml:space="preserve">
+    <value>Team spirit, disciplined work, solidarity, and Gracious Professionalism are our core principles. We learn together, produce together, and overcome every challenge as a team. The growth of each member is valuable to us.</value>
+  </data>
+  <data name="ServicesPVision" xml:space="preserve">
+    <value>We aim to be part of a generation that produces technology, conducts research, and makes a difference in society. By building a sustainable team culture, we strive to become a role-model team in the FRC ecosystem through both our technical and social contributions.</value>
+  </data>
+  <data name="ServicesPWho" xml:space="preserve">
+    <value>KAR Robotics is a student team formed by Kartal Anatolian High School students, working within the FRC program to design and build robots while learning new technologies. Our goal is not only to build a robot, but to become a team that learns, produces, and inspires together, taking confident steps toward becoming the engineers of the future.</value>
+  </data>
+  <data name="SponsorsH2P" xml:space="preserve">
+    <value>OUR SPONSORS</value>
   </data>
 </root>

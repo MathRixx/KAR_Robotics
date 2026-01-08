@@ -1,4 +1,8 @@
-﻿<!-- Hero Section -->
+﻿@using Microsoft.Extensions.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using KAR_Robotics
+@inject IStringLocalizer<SharedResource> Localizer
+<!-- Hero Section -->
 <section id="hero" class="hero section dark-background">
 
     <img src="~/img/hero-bg.jpg" alt="" data-aos="fade-in">
@@ -8,7 +12,7 @@
         <div class="row justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
             <div class="col-xl-8 col-lg-8">
                 <h2 id="h3text" style="font-size: 100px"><span>KAR</span> Robotics</h2>
-                <p>Yükselmek bizim doğamızda var</p>
+                <p>@Localizer["HeroSlogan"]</p>
             </div>
         </div>
 
