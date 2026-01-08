@@ -20,7 +20,7 @@ The website is built with **ASP.NET Core MVC** and is designed to present the te
 
 - **Backend:** ASP.NET Core MVC
 - **Frontend:** HTML, CSS, JavaScript
-- **Runtime:** .NET Core
+- **Runtime:** .NET Core (9.0)
 - **Architecture:** MVC (Model–View–Controller)
 
 ---
