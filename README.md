@@ -46,7 +46,7 @@ dotnet --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/MathRixx/KAR_Robotics_.git
+git clone https://github.com/MathRixx/KARobotics_.git
 cd KAR_Robotics_
 ```
 
