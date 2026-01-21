@@ -56,7 +56,7 @@
 
             <nav id="navmenu" class="navmenu">
                 <ul>
-                    <li><a href="#hero" class="active">Ana Sayfa<br></a></li>
+                    <li><a href="#hero" class="active">@Localizer["Home"]<br></a></li>
                     <li><a href="#about">@Localizer["AboutUs"]</a></li>
                     <li><a href="#services">@Localizer["OurTeam"]</a></li>
                     <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
@@ -82,7 +82,27 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-            <a class="btn-getstarted" href="index.html">Türkçe</a>
+            <ul>
+                <li class="nav-item dropdown" style="list-style-type:none">
+                    <a class="btn-getstarted dropdown-toggle" href="#" id="langBtn" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        @Localizer["Language"]
+                    </a>
+
+                    <div class="dropdown-menu" aria-labelledby="langBtn" id="langMenu">
+                        <a class="dropdown-item" href="/tr/" style="text-align:center">
+                            <img src="~/img/flags/tr-flag.webp" alt="Turkish" height="20" width="30"> @Localizer["Turkish"]
+                        </a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/en/" style="text-align:center">
+                            <img src="~/img/flags/us-flag.webp" alt="English" height="20" width="38"> @Localizer["English"]
+                        </a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/de/" style="text-align:center">
+                            <img src="~/img/flags/de-flag.webp" alt="German" height="20" width="30"> @Localizer["German"]
+                        </a>
+                    </div>
+                </li>
+            </ul>
 
         </div>
     </header>
@@ -106,7 +126,7 @@
                         <div class="social-links d-flex mt-4 justify-content-center">
                             <a href="https://github.com/karobotics"><i class="bi bi-github"></i></a>
                             <a href="https://www.youtube.com/@@karobotics"><i class="bi bi-youtube"></i></a>
-                            <a href="https://www.instagram.com/karobotics/"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.instagram.com/kar11255/"><i class="bi bi-instagram"></i></a>
                             <a href="https://www.linkedin.com/company/kar-robotics/"><i class="bi bi-linkedin"></i></a>
                             <a href="https://www.tiktok.com/@@karobotics"><i class="bi bi-tiktok"></i></a>
                         </div>
@@ -177,7 +197,6 @@
 
     <!-- Main JS File -->
     <script src="~/js/main.js"></script>
-
 </body>
 
 </html>
