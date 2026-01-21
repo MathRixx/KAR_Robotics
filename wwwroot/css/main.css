@@ -1,15 +1,40 @@
-/**
-* Template Name: Gp
-* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-* Updated: Aug 15 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+﻿.language-switcher {
+    position: relative;
+    display: inline-block;
+}
 
-/*--------------------------------------------------------------
-# Font & Color Variables
-# Help: https://bootstrapmade.com/color-system/
---------------------------------------------------------------*/
+.lang-menu {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    background: #fff;
+    min-width: 160px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    overflow: hidden;
+    z-index: 999999; /* üstte kalsın */
+}
+
+    .lang-menu a {
+        display: block;
+        padding: 10px 14px;
+        text-decoration: none;
+        color: #333;
+        font-size: 14px;
+    }
+
+        .lang-menu a:hover {
+            background: #f2f2f2;
+        }
+
+/* Butona tıklandığında, odaklanıldığında veya menü açıkken */
+
+.dropdown-item:active {
+    background-color: transparent !important; /* Mavi arka planı kaldırır */
+    color: inherit !important; /* Yazı rengini korur */
+    border-color: transparent !important; /* Kenar çizgisini kaldırır */
+    box-shadow: none !important; /* Mavi parlamayı (outline) kaldırır */
+}
 /* Fonts */
 :root {
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -390,7 +415,7 @@ h6 {
     justify-content: center;
     border-radius: 50%;
     transition: 0.3s;
-    background-color: color-mix(in srgb, var(--accent-color), white 90%);
+    background-color: var(--nav-dropdown-hover-color);
   }
 
   .navmenu a i:hover,
@@ -401,6 +426,7 @@ h6 {
   .navmenu a:hover,
   .navmenu .active,
   .navmenu .active:focus {
+    color: var(--nav-color);
     background-color: var(--nav-dropdown-hover-color);
   }
 
